@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Voucher Generator",
+  "description": "An application to automatically generate formatted payment vouchers from uploaded spreadsheets or images using OCR.",
+  "requestFramePermissions": []
+}
